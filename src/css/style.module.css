@@ -1,0 +1,21 @@
+.footer {
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.6);
+  background: transparent;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0px;
+  text-align: left;
+}
+
+.header {
+  position: fixed;
+  background-color: blue;
+  background: black;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0px;
+  text-align: center;
+}
